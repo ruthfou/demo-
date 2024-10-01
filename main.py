@@ -18,3 +18,9 @@ print("3. Exit")
 
 # Get user's choice
 choice = input("Please select an option (1, 2, or 3): ")
+if choice==1:
+  print("Placeholder response")
+if choice==2:
+  print("Placeholder response")
+if choice==3:
+  print("Goodbye!")
